@@ -3,7 +3,7 @@
 This MATLAB project simulates the variation of Signal-to-Noise Ratio (SNR) with respect to distance in a Device-to-Device (D2D) communication scenario.
 
 ## 📈 Output Plot
-![SNR Plot](![SNR_vs_Distance_Plot](https://github.com/user-attachments/assets/9ffacba4-59f4-4699-8221-6f02ed0802e1)
+(![SNR_vs_Distance_Plot](https://github.com/user-attachments/assets/9ffacba4-59f4-4699-8221-6f02ed0802e1)
 .png)
 
 ## 💡 Summary
